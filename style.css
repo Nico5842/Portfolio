@@ -1,0 +1,380 @@
+body{
+    
+
+}
+
+section, header{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: 1300px;
+}
+
+header{
+    height: 70px;
+    margin-top: 5px;
+}
+
+#cabecera{
+    width:1300px;
+    height:50px;
+    background-color:#22223B;
+}
+
+
+
+.btn-toolbar{
+    padding: 0;
+    margin: 0;
+    float: right;
+    margin-top:5px;
+}
+
+#prueba1{
+    background-color: #22223B;
+    border-color: white;
+    border-radius:8px;
+}
+
+#prueba2{
+    background-color: #22223B;
+    border-color: white;
+    border-radius:8px;
+    margin-left: 4px;
+}
+
+#prueba3{
+    background-color: #22223B;
+    border-color: white;
+    border-radius:8px;
+    margin-left: 4px;
+}
+
+#prueba4{
+    background-color: #22223B;
+    border-color: white;
+    border-radius:8px;
+    margin-left: 4px;
+}
+
+.btn-check{
+    border-radius: 500px;
+}
+
+#minombre{
+    padding-top:12px;
+    color:white;
+}
+
+#icono {
+    float:left;
+    height: 25px;
+    width: 25px;
+}
+
+#segundaparte{
+    margin-top:20px;
+    padding-top: 80px;
+    height: 550px;
+    background-color: #F2E9E4;
+}
+
+#presentacion{
+    width: 600px;
+    font-family: 'Noto Sans', sans-serif;
+    /*font-size:xx-large;*/
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+#foto{
+    float: right;
+    width: 400px;
+    height: 400px;
+    margin-right: 100px;
+    border-radius:50%;
+}
+
+#presentacion2{
+    color:coral;
+    width: 600px;
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+    margin-left: 95px;
+    padding-top: 190px;
+}
+
+#linksnegros{
+    width: 700px;
+    text-align: center;
+    padding-top:22px;
+    padding-left:55px;
+}
+
+.link-dark{
+    padding-left:50px;
+    font-size:larger;
+}
+
+.flechita{
+    width: 35px;
+    height: 35px;
+}
+
+#terceraparte{
+    margin-top:50px;
+    height: 300px;
+    width: 600;
+    padding-left:102px;
+    padding-top: 30px;
+    background-color:#C9ADA7;
+}
+
+.textito{
+    text-align: left;
+}
+
+#texto1{
+
+}
+
+#parrafito{
+    color:#22223B;
+    font-size: larger;
+    margin-right:102px;
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+
+#cuartaparte{
+    margin-top:50px;
+    height: 650px;
+    background-color: #9A8C98;
+}
+
+#parrafo10{
+    text-align: center;
+    font-size: larger;
+    margin-left:100px;
+    margin-right:100px;
+    font-family: 'Lora', serif;
+}
+
+#skills{
+    text-align: center;
+    color:white;
+}
+
+.cajitasblanquitas{
+    width: 200px;
+    height:200px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 12px;
+    float:left;
+
+}
+
+
+.imagenes{
+    height: 50px;
+    width: 50px;
+    margin-left:75px;
+    margin-top:80px;
+}
+
+.imagene{
+    height: 50px;
+    width: 50px;
+    margin-left:11px;
+    margin-top:80px;
+}
+
+.nombre{
+    font-family: 'Open Sans', sans-serif;
+    color:black;
+    font-size:larger;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#quintaparte{
+    margin-top:50px;
+    background-color: #4A4E69;
+    height: 500px;
+}
+
+#Formacion{
+    text-align:center;
+    margin-top:50px;
+    color:white;
+}
+
+#formacionacademica{
+    text-align:center;
+    margin-top:50px;
+    color:white;
+}
+
+.cuadritosblancos{
+    width: 350px;
+    height: 300px;
+    background-color: white;
+    margin-left:60px;
+    margin-top:50px;
+    border-radius: 12px;
+    float:left;
+}
+
+#unr{
+    width:200px;
+    height: 200px;
+    margin-left:75px;
+    margin-top:2px;
+}
+
+#nombrecitounr{
+    font-family: 'Open Sans', sans-serif;
+    color: #4A4E69;
+    font-size:larger;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.actualunr{
+    text-align: center;
+}
+
+
+#alura{
+    width:230px;
+    height:150px;
+    margin-top:36px;
+    margin-left:50px;
+}
+
+#nombrecitoalura{
+    font-family: 'Open Sans', sans-serif;
+    color: #4A4E69;
+    font-size:larger;
+    text-align: center;
+    margin-top:25px;
+}
+
+#argentinaprograma{
+    width:330px;
+    height: 220px;
+    margin-top:5px;
+    margin-left:15px;
+}
+
+#nombrecitoargentina{
+    font-family: 'Open Sans', sans-serif;
+    color: #4A4E69;
+    font-size:larger;
+    text-align: center;
+    margin-top:-25px;
+}
+
+#sextaparte{
+    height: 630px;
+    background-color:#C9ADA7;
+    margin-top:50px;
+}
+
+#carouselExampleDark{
+    margin-left:100px;
+    margin-top:30px;
+    width:1100px;
+    height:500px;
+}
+
+#imagenencriptador{
+    width:1000px;
+    height:500px;
+    opacity: 0.4;
+}
+
+#imagenahorcado{
+    width:1000px;
+    height:500px;
+    opacity: 0.4;
+}
+
+#imagenexcel{
+    width:1000px;
+    height:500px;
+    opacity: 0.4;
+}
+
+#imagenpowerbi{
+    width:1000px;
+    height:500px;
+    opacity: 0.4;
+}
+
+#imagensql{
+    width:1000px;
+    height:500px;
+    opacity: 0.4;
+}
+
+.letragrandecita{
+    font-size:larger;
+}
+
+#septimaparte{
+    height: 700px;
+    margin-top:50px;
+    background-color:#9A8C98;
+}
+
+#contactarme{
+    text-align: center;
+}
+
+#imagencontacto{
+    float:left;
+    width: 500px;
+    height: 350px;
+    margin-left: 100px;
+    margin-top:50px;
+}
+
+#contacto{
+    margin-left: 700px;
+    margin-top: 60px;
+}
+
+.form-control{
+    margin-top:50px;
+}
+
+#nombre{
+    width: 500px;
+    border-width: 3px;
+    border-color: #023047;
+}
+
+#exampleInputEmail1{
+    width: 500px;
+    border-width: 3px;
+    border-color: #023047;
+}
+
+#asunto{
+    width: 500px;
+    border-width: 3px;
+    border-color: #023047;
+}
+
+#mensaje{
+    width: 500px;
+    height: 100px;
+    border-width: 3px;
+    border-color: #023047;
+}
