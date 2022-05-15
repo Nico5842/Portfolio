@@ -36,6 +36,20 @@ header{
     border-radius:8px;
 }
 
+#prueba1:hover{
+    background-color:white;
+    border-color: black;
+    color:black;
+    font-size:large;
+}
+
+#prueba2:hover{
+    background-color:white;
+    border-color: black;
+    color:black;
+    font-size:large;
+}
+
 #prueba2{
     background-color: #22223B;
     border-color: white;
@@ -50,11 +64,25 @@ header{
     margin-left: 4px;
 }
 
+#prueba3:hover{
+    background-color:white;
+    border-color: black;
+    color:black;
+    font-size:large;
+}
+
 #prueba4{
     background-color: #22223B;
     border-color: white;
     border-radius:8px;
     margin-left: 4px;
+}
+
+#prueba4:hover{
+    background-color:white;
+    border-color: black;
+    color:black;
+    font-size:large;
 }
 
 .btn-check{
