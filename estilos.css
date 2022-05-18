@@ -1,0 +1,287 @@
+.orbita1{
+    width: 300px;
+    height: 50px;
+    border: 2px transparent dashed;
+    border-radius: 100%;
+    margin-left:450px;
+    margin-top:50px;
+}
+
+.orbita2{
+    width: 350px;
+    height: 350px;
+    margin-top:60px;
+    border: 2px transparent dashed;
+    border-radius: 100%;
+    animation: spin-right 25s linear infinite;
+}
+
+#skillcentral{
+    width:200px;
+    height: 200px;
+    position: absolute;
+    background-color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+    margin-left:75px;
+    margin-top:70px;
+    border-radius: 100px;
+    animation: spin-left 25s linear infinite;
+}
+
+#skilltexto{
+    font-size:xx-large;
+    margin-top: 75px;
+    margin-left: 60px;
+}
+
+#primercirculo{
+    width:90px;
+    height:90px;
+    margin-top:15px;
+    margin-left: -0px;
+    background-color:white;
+    border-radius:50px;
+    z-index: 1;
+}
+
+.imagenes{
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: absolute;
+    animation: spin-left 25s linear infinite;
+}
+
+.textito{
+    animation: spin-left 25s linear infinite;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: black;
+}
+
+
+#circuloimagen{
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    position: absolute;
+    margin-top:-90px;
+    border-radius:50px;
+    z-index: -1;
+}
+
+#html{
+    font-size:auto;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 34px;
+    margin-left: -3px;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: black;
+    position: static;
+}
+
+#python{
+    height: 80px;
+    width: 50px;
+    margin-left:20px;
+    margin-top: 4px;
+}
+
+
+#segundocirculo{
+    position:absolute; 
+    width:90px;
+    height:90px;
+    margin-top:60px;
+    margin-left:-35px;
+    background-color:white;
+    border-radius:50px;
+    z-index: 1;
+}
+
+#circuloimagen2{
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    position: absolute;
+    margin-top:60px;
+    margin-left:-35px;
+    border-radius:50px;
+}
+
+#css{
+    font-size: auto;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 35px;
+
+}
+
+#tercercirculo{
+    width:90px;
+    height:90px;
+    margin-top:180px;
+    margin-left:60px;
+    background-color:white;
+    border-radius:50px;
+    z-index: 1;
+}
+
+#circuloimagen3{
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    position: absolute;
+    margin-top:-90px;
+    margin-left:60px;
+    border-radius:50px;
+    z-index: -1;
+}
+
+#javascript{
+    font-size: auto;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 35px;
+    overflow: hidden;
+}
+
+#cuartocirculo{
+    width:90px;
+    height:90px;
+    margin-top:-90px;
+    margin-left:210px;
+    background-color:white;
+    border-radius:50px;
+}
+
+#circuloimagen4{
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    position: absolute;
+    margin-top:-90px;
+    margin-left:210px;
+    border-radius:50px;
+    z-index: -1;
+}
+
+#sql{
+    width: 45px;
+    height:45px;
+    margin-top:23px;
+    margin-left: 23px;
+}
+
+#sql2{
+    font-size: auto;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 35px;
+
+    overflow: hidden;
+}
+
+#quintocirculo{
+    width:90px;
+    height:90px;
+    margin-top:-210px;
+    margin-left:300px;
+    background-color:white;
+    border-radius:50px;
+}
+
+#circuloimagen5{
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    position: absolute;
+    margin-top:-90px;
+    margin-left:300px;
+    border-radius:50px;
+    z-index: -1;
+}
+
+#office{
+    font-size: auto;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 15px;
+    overflow: hidden;
+}
+
+#sextocirculo{
+    width:90px;
+    height:90px;
+    margin-top:-240px;
+    margin-left:260px;
+    background-color:white;
+    border-radius:50px;
+}
+
+#circuloimagen6{
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    position: absolute;
+    margin-top:-90px;
+    margin-left:260px;
+    border-radius:50px;
+    z-index: -1;
+}
+
+#python2{
+    font-size: auto;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 35px;
+    overflow: hidden;
+}
+
+#septimocirculo{
+    width:90px;
+    height:90px;
+    margin-top:-150px;
+    margin-left:125px;
+    background-color:white;
+    border-radius:50px;
+}
+
+#circuloimagen7{
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    position: absolute;
+    margin-top:-90px;
+    margin-left:125px;
+    border-radius:50px;
+    z-index: -1;
+}
+
+#C{
+    font-size: auto;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 35px;
+    overflow: hidden;
+}
+
+@keyframes spin-right{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+    
+}
+
+@keyframes spin-left{
+    from{
+        transform: rotate(360deg);
+    }
+    to{
+        transform: rotate(0deg);
+    }  
+}
